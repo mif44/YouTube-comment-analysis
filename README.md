@@ -1,10 +1,10 @@
-# 📊 YouTube Sentiment Analyzer
+# 📊 YouTube Comments Analyzer
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![ML](https://img.shields.io/badge/ML-Transformers-orange.svg)
 
-> **YouTube Sentiment Analyzer** is a command-line tool powered by neural networks that lets you instantly assess audience sentiment for any video. No more reading thousands of comments manually!
+> **YouTube Comments Analyzer** is a command-line tool powered by neural networks that lets you instantly assess audience sentiment for any video. No more reading thousands of comments manually!
 
 ---
 

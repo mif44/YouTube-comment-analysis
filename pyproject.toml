@@ -1,0 +1,20 @@
+[project]
+name = "youtube-video-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colorama>=0.4.6",
+    "google-api-python-client>=2.189.0",
+    "python-dotenv>=1.2.1",
+    "sentencepiece>=0.2.1",
+    "torch>=2.10.0",
+    "transformers>=5.1.0",
+    "virtualenv>=20.36.1",
+]
+
+[tool.uv.workspace]
+members = [
+    "venv",
+]
