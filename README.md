@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 3. Setting Up the API Key
 1. Get your key in the [Google Cloud Console](https://console.cloud.google.com/).
-2. Open `youtube_fetcher.py` and replace `YOUR_API_KEY` with your actual key.
+2. Open the `.env.example` file and replace `YOUR_API_KEY` with your actual key, replace the `.env.example` file with `.env`.
 
 ---
 
