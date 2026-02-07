@@ -1,10 +1,10 @@
 import argparse
 
 
-from youtube_fetcher import YouTubeFetcher
-from sentiment_analyzer import SentimentAnalyzer
-from data_calculation import calculate_stats
-from display_terminal import show_report
+from src.youtube_fetcher import YouTubeFetcher
+from src.sentiment_analyzer import SentimentAnalyzer
+from src.data_calculation import calculate_stats
+from src.display_terminal import show_report
 
 
 def setup_args():

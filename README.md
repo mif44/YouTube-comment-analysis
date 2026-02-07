@@ -63,12 +63,12 @@ The program is controlled via command-line arguments. Use the `--video` flag to 
 
 **Standard analysis of 100 comments:**
 ```bash
-python main.py --video dQw4w9WgXcQ
+python src.main --video dQw4w9WgXcQ
 ```
 
 **Analysis with a limit (e.g., 50):**
 ```bash
-python main.py --video dQw4w9WgXcQ --limit 50
+python -m src.main --video dQw4w9WgXcQ --limit 50
 ```
 
 ---
